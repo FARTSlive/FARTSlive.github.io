@@ -4,7 +4,13 @@ title: AI-arrhea
 permalink: /aiarrhea/
 ---
 
+*Firebase Studio must be some precocious jr high school prodigy's science project.*  It's AMAZINGLY capable, just downright STUNNING really, especially with the integration between Gemini and GCP!  **And yet a complete disaster as a product!** Exactly, what we have come to expect from Google.
+
+This is kind of peak disappointment time for AI ... so much promise and so LITTLE in terms of useable, meaningful products for real world things ... *the cute little baby has not digested its food yet and what's being pooped out is not really worth gushing over.*
+
 AI-arrhea is THE problem of AI. The best available AI mimic style of well-worn cliches ... and in so doing, robo-produces replicated blizzards of automated ill-digested *shit.* 
+
+Maybe, it's not a BABY problem ... maybe it's a problem that techsters have been wanting their precious Singularity to happen for way too long ... like Biden running for POTUS in 1988 and being declared medically unfit to function, at least in a neurological capacity, after the aneurysm/stroke or whatever it was back then ... and THEN Biden running again in 2020 and winning in the manipulated vote.
 
 ## The Singularity's Biden-esque Crisis
 
