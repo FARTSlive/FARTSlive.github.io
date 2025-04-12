@@ -14,7 +14,9 @@ Maybe, it's not a BABY problem ... maybe it's a problem that techsters have been
 
 ## The Singularity's Biden-esque Crisis
 
-The Singularity we techsters voted for has lost its freakin' head, folks! It's just out there wandering in the weeds, making a MESS in it's trou and will be doing the same for the next couple decades!
+The Singularity we techsters voted for has lost its freakin' head, folks! *If it actually ever had a brain ...*
+
+Now the Old Singularity is just out there wandering in the weeds, making a MESS in it's trou with all of the AI gushing and will be doing the same for the next couple decades!
 
 I've been TRAINED—no, you could say it's been BEATEN into me, because I WANTED to believe—but I've been conditioned by the GENERALLY ABYSMAL quality of information produced by AI to skim this garbage as fast as it's produced! That's the credence level it deserves until I've personally read it, re-thought it, double-checked it, and basically REWRITTEN THE WHOLE DAMN THING!
 
