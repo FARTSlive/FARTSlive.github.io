@@ -2,7 +2,7 @@
 layout: post
 title:  "Development Roadmap for Project Management Collaboration App"
 date:   2025-04-15 4:30:00
-categories: template
+categories: roadmap
 ---
 Below we outline the architectural vision for [GitProjMgr](https://github.com/AuctU/GitProjMgr), a project that builds upon GitButler's foundation to create an enhanced collaborative project management experience. Rather than reimagining GitButler, GitProjMgr aims to extend its capabilities by implementing sophisticated observability engineering that enables more meaningful AI integration.
 
