@@ -2,7 +2,7 @@
 layout: post
 title:  "Implementing Fartler Approach To Obervability Engineering in GitProjMgr"
 date:   2025-04-15 9:30:00
-categories: template
+categories: fartlerAI
 ---
 *The Fartler approach ... as in "fartling up some vibe" ... is all about bottling up the ambient gas of a coding vibe session for eternity, so that somebody or some AI can sniff the vibe later.*
 
