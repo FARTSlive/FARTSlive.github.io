@@ -10,12 +10,20 @@ This 50-day study plan is designed to guide anyone through learning all the nece
 
 ## DAILY RESOURCES & APPROACHES
 
-### Key Learning Resources Explored:
-- **Books**: "[Building LLM-powered Applications](https://github.com/PacktPublishing/Building-LLM-Powered-Applications)", "Designing Data-Intensive Applications", "The Rust Programming Book", "Tauri Apps with Svelte"
-- **Courses**: DeepLearning.AI LLM specialization, Fast.ai, Rust for JavaScript Developers, Svelte Tutorial
+### Daily Resources & Serindiptious Learning Approaches
+
+Do not underestimate how much you can learn by just frequenting different key learning resources on a daily basis. When you need a break or just want some fresh ideas, instead of looking at social media, try perusing the following:
+
+- **Communities**: HuggingFace forums, Rust user forums, Tauri Discord, Svelte Discord, AI Discord servers, GitHub discussions, wiki and issues on your favorite repositories, HackerNews and [YCombinator CoFounder Matching](https://www.ycombinator.com/cofounder-matching)
+
+- **Papers**: Routinely peruse the latest research on [agent systems](https://arxiv.org/search/?query=%22agent+systems%22&searchtype=all&source=header), [LLMs](https://arxiv.org/search/?query=%22LLM%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200), [information retrieval](https://arxiv.org/search/?query=%22information+retrieval%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200), and various repositories on Rust, , and GitHub reposotiories searchs for relevant Rust news/books such as [LangDB](https://github.com/langdb)'s [AI Gateway](https://github.com/langdb/ai-gateway), [Peroxide](https://github.com/Axect/Peroxide), or the [Rust Performance Optimization Book](https://nnethercote.github.io/perf-book/introduction.html)
+
 - **Documentation**: LangChain, HuggingFace, OpenAI, Anthropic, Tauri, Rust, Svelte, Jujutsu, and relevant APIs
-- **Papers**: Latest research on agent systems, LLMs, information retrieval, and Rust performance optimization
-- **Communities**: HuggingFace forums, Rust user forums, Tauri Discord, Svelte Discord, AI Discord servers, GitHub discussions
+
+- **Books**: "[Building LLM-powered Applications](https://github.com/PacktPublishing/Building-LLM-Powered-Applications)", "[Designing Data-Intensive Applications](_posts/Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems ( PDFDrive ).pdf)", "[The Rust Programming Book](https://doc.rust-lang.org/book/)", "[Tauri Apps](https://tauri.app/)", and  [Tauri App With SvelteKit](https://v1.tauri.app/v1/guides/getting-started/setup/sveltekit/)"
+
+- **Courses**: [Rust for JavaScript Developers](https://rustforjs.dev/), [Svelte Tutorial](https://github.com/sveltejs/learn.svelte.dev), [Fast.ai](https://github.com/fastai/course22), [DeepLearning.AI LLM specialization](https://www.coursera.org/professional-certificates/data-engineering#courses), search Google / GitHub / X for new courses or approaches to training programs such as Gauntlet.AI ... OR, maybe best of all, [google "database of unicorn startups"](https://www.google.com/search?q=database+of+unicorn+startups) for things like [Pitchbook's Unicorn Tracker](https://pitchbook.com/news/articles/unicorn-startups-list-trends), ie, find better ways follow the $ or treat dealflow in new startups as if dealflow were a course in what's working.
+
 
 ### Daily Structure:
 1. **Morning Theory** (3 hours):
@@ -38,7 +46,7 @@ This 50-day study plan is designed to guide anyone through learning all the nece
 
 ## Program of Study Table of Contents
 
-- [DAILY RESOURCES & APPROACHES](#daily-resources--approaches)
+- [Daily Resources & Serindiptious Approaches](#daily-resources--approaches)
 - [PHASE 1: FOUNDATIONS (Days 1-10)](#phase-1-foundations-days-1-10)
   - [Day 1-2: Understanding Agentic Systems & Large Language Models](#day-1-2-understanding-agentic-systems--large-language-models)
   - [Day 3-4: API Integration Fundamentals](#day-3-4-api-integration-fundamentals)
