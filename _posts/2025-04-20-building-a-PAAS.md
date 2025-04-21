@@ -147,7 +147,7 @@ By the end of your seventh week, you should have a fully functional PAAS with an
 
 ## Program of Study Table of Contents
 
-- [Daily Rhythm And Serindiptious Learning](#daily-resources-augment-the-program-of-study-with-serindiptious-learning)
+- [Daily Rhythm And Serindiptious Learning](#daily-resources-augment-the-program-of-study-with-serindiptious-learning) ... re-read the first part, especially on the daily rhythm of your educational workflow; this is a tough 50-day project learning program. Re-read the first part on daily rhythum, have a plan for the **outsourced** computer resources that you will need, understand the milestones in order to be sure that you are ready to commit to doing this right!
 - [PHASE 1: FOUNDATIONS (Days 1-10)](#phase-1-foundations-days-1-10)
   - [Day 1-2: Understanding Agentic Systems & Large Language Models](#day-1-2-understanding-agentic-systems--large-language-models)
   - [Day 3-4: API Integration Fundamentals](#day-3-4-api-integration-fundamentals)
