@@ -4,13 +4,15 @@ title:  "50-Day Personal Assistant Agentic System (PAAS) Development Study Plan"
 date:   2025-04-21 5:00:00
 categories: vision
 ---
+The BIG REASON to build a PAAS is to avoid being a mere spectator passively consuming content and to instead actively engage in intelligence gathering ... dogfooding the toolchain and workflow to accomplish this and learning how to do it is an example of what it means to stop being a spectator and actively engage in AI-assisted intelligence gathering.
+
 ## 50-Day Personal Assistant Agentic System (PAAS) Development Study Plan
 
-This 50-day study plan is designed to guide anyone through learning all the necessary components to build an advanced intelligence gathering platform. Each day consists of 6 hours of focused work, divided into a morning session theoretical learning with an afternoon session of practical application. The plan incorporates modern Rust-based technologies including Tauri, Svelte, Servo/Verso, and Jujutsu for building efficient, secure, and maintainable components.
+This 50-day study plan was designed [with AI assistance of course] to guide anyone [but especially me] through learning all the necessary components to build an advanced intelligence gathering platform. Each day consists of 6 hours of focused work, divided into a morning session theoretical learning with an afternoon session of practical application. The plan incorporates modern Rust-based technologies including Tauri, Svelte, Servo/Verso, and Jujutsu for building efficient, secure, and maintainable components.
 
 ### Daily Resources Augment The Program Of Study With Serindiptious Learning
 
-You will want to stick to the [Program of Study to progressively build your skills and achieve your PAAS Development objective](#program-of-study-table-of-contents), but never underestimate how much you can learn by just frequenting different key learning resources on a **daily** basis. For example -- let's say that you really need a break or just want some fresh ideas, first try working in some exercise. If you still need a break, then instead of looking toward social media or the news for your dose of distraction, try perusing the following:
+Much of this is preparation or preparing to succeed. Sure, AFTER are ready to start the process, you will probably want to kinda sorta stick to the [Program of Study to progressively build your skills and achieve your PAAS Development objective](#program-of-study-table-of-contents), but never underestimate how much you can learn by just frequenting different key learning resources on a **daily** basis. For example -- let's say that you really need a break or just want some fresh ideas, first try working in some exercise. If you still need a break, then instead of looking toward social media or the news for your dose of distraction, try perusing the following:
 
 - **Communities**: HuggingFace forums, Rust user forums, Tauri Discord, Svelte Discord, AI Discord servers, GitHub discussions, wiki and issues on your favorite repositories, HackerNews and [YCombinator CoFounder Matching](https://www.ycombinator.com/cofounder-matching)
 
